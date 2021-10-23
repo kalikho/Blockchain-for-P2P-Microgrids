@@ -1,2 +1,4 @@
 *.json
+*.gitignore
+**/node_modules
 !spec/*.json
