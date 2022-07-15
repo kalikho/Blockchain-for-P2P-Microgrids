@@ -3,7 +3,7 @@
 
 The code is from the paper "A Blockchain Based Approach for Optimal Energy Dispatch and Fault Reporting in P2P Microgrids" presented at EnergyCom 2021 Workshop co-located with IEEE GlobeCom 2021.
 
-[![Recorded Presentation](https://img.youtube.com/vi/ebvuISkg73g/0.jpg)](https://www.youtube.com/watch?v=ebvuISkg73g)
+              [![Recorded Presentation](https://img.youtube.com/vi/ebvuISkg73g/0.jpg)](https://www.youtube.com/watch?v=ebvuISkg73g)
 
 
 Authors : Roshan Singh, Pranav Kumar Singh, and Sukumar Nandi.
